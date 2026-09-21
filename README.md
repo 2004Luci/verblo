@@ -1,1 +1,1 @@
-A simple Resume Analyser built with React Router
+A clean and simple AI resume analyzer built with React Router v7
